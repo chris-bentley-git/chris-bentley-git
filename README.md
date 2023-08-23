@@ -6,8 +6,8 @@ I'm a passionate web developer focused on crafting clean and user-friendly exper
 
 ### 🛠️ Skills
 
-Front-end: JavaScript, React, HTML, CSS, Vite, Webpack, Tailwind
-Back-end: Node.js, Express (in progress)
+- Front-end: JavaScript, React, HTML, CSS, Vite, Webpack, Tailwind
+- Back-end: Node.js, Express (in progress)
 
 ### 📚 Learning
 
