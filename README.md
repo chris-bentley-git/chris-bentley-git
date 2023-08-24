@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-I'm a passionate web developer focused on crafting clean and user-friendly experiences. With a foundation in front-end development, I'm now immersed in the world of back-end technologies.
+I'm a web developer focused on crafting clean and user-friendly experiences. With a foundation in front-end development, I'm now immersed in the world of back-end technologies.
 
 🔭 **Currently:** Exploring the depths of back-end development.
 
