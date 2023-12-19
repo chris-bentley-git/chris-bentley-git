@@ -1,19 +1,12 @@
-## Hello, World! 👋
+# Hi, I'm Chris
 
-I am a frontend web developer currently learning backend development.
+- Web Developer
+- Currently exploring backend development
 
-### 🛠️ Skills
 
-- Front-end: JavaScript, React, HTML, CSS, Vite, Webpack, Tailwind
-- Back-end: Node.js, Express, MongoDB (in progress)
+## Skills
 
-### 📚 Learning
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: NodeJS, Express, MongoDB
 
-- Building robust APIs with Node.js and Express.
-- Integrating front-end functionality with back-end logic.
-- Diving into databases for dynamic data management.
 
-<!---
-chris-bentley-git/chris-bentley-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
