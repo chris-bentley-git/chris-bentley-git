@@ -1,6 +1,6 @@
 # Hi, I'm Chris
 
-- Web Developer
+- I'm a Software Engineering student that enjoys web development
 - Currently exploring backend development
 
 
@@ -8,5 +8,3 @@
 
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: NodeJS, Express, MongoDB
-
-
